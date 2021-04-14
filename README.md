@@ -206,7 +206,7 @@
 
 > 💰💰 Donate 5$ to get the password for all the books, take a photo of the payment page and email it (mrt.mycloud@gmail.com). Password will be sent in less than 24 hours. <br>
 <a href="https://vendor.cryptopayment.link/p/tSe0h0WX">
-    <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="150">
+    <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="300">
     <img src="https://raw.githubusercontent.com/cloud9020locki/penetration_testing/main/___paymentQR/download.png?token=AGIZMABATJ5HURUNOUVW7G3AO36DG" width="100" hight="100">
 </a>
 
