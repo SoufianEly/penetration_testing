@@ -210,3 +210,9 @@
     <img src="https://drive.google.com/uc?export=view&id=1YfvAccG669ryu7mgHr7kzUhPkj4Szdjo" width="100" hight="100">
 </a>
 
+### Don't know What is Bitcoin/Ethereum?! (Ok, I will tell you)
+If you are unfamiliar with the Bitcoin and Ethereum payment system, read the following:
+To create a Bitcoin and Ethereum account, you can go to http://blockchain.com and then create an account.<br>
+Then you can directly increase the credit of your wallet account <br> (if you are in a country like Iran that is under sanctions, you can increase your account through an exchange office or deposit directly to the payment address).<br>
+Finally, pay the deposit amount to the Bitcoin or Ethereum address introduced by us and send us email as we mentioned before.
+For more information on the Internet, search for "Bitcoin account creation tutorial"
