@@ -205,9 +205,8 @@
 #### ☕use CTRL+F to find your book then go to repo & clone it.
 
 > 💰💰 Donate 2$ to get the password for all the books, take a photo of the payment page and email it (mrt.mycloud@gmail.com). Password will be sent in less than 24 hours. <br>
-<a href="https://www.blockchain.com/btc/payment_request?address=1Lk6ppYdcgZN98zMQJQankPNXmzJGx1Hi8&message=Hi, 2$ (USD) for your file is easy.
-Talebi-BTC&amount=0.00003428"><img src="https://image.freepik.com/free-vector/bitcoin-accepted-here-banner-cryptocurrency_127544-202.jpg" width="120" hight="120" alt="Bitcoin Donate Button"></a>
-....<a href="https://brianmacdonald.github.io/Ethonate/address#0x47c583B40bec4F2A5AF61F8ED028566BE9dfacA4">
-    <img src="https://image.freepik.com/free-vector/ethereum-accepted-here-banner-cryptocurrency_127544-204.jpg" width="120" hight="120"/>
+<a href="https://vendor.cryptopayment.link/p/tSe0h0WX">
+    <img src="https://www.nimiq.com/images/full_image_101186_64c.png" width="120" hight="120" alt="Bitcoin Donate Button">
+    <img src="">
 </a>
 
