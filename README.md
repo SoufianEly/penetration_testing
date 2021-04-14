@@ -8,11 +8,11 @@
 
 
 ### Our Books👌
-<img src="https://drive.google.com/uc?export=view&id=1kgfR7u01BItVMtqHDz3MW4J7DIj68HXw">
+<img src="https://splianel.sirv.com/cap1.JPG">
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1us_W3sBAPT_ODTTQOrYpSJQFlQMqyjNe">
+<img src="https://splianel.sirv.com/cap2.JPG">
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1ot-mDH74lXpAKglk1nrUy9XBAWPeopAp">
+<img src="https://splianel.sirv.com/cap3.JPG">
 
 #### Big thank's to My best Friend "Oysten" from Norway
 #### We do not violate copyright law, so publishers can contact us by email. The purpose of this work is to help researchers in the field of security and the growth of science and nothing else.
