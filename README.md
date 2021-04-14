@@ -207,7 +207,7 @@
 > 💰💰 Donate $5 (USD) to get the password for all the books, take a photo of the payment page and email it (mrt.mycloud@gmail.com). Password will be sent in less than 24 hours. <br>
 <a href="https://vendor.cryptopayment.link/p/tSe0h0WX">
     <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="300"> ... 
-    <img src="https://drive.google.com/uc?export=view&id=1YfvAccG669ryu7mgHr7kzUhPkj4Szdjo" width="100" hight="100">
+    <img src="https://splianel.sirv.com/download.png" width="100" hight="100">
 </a>
 
 ### Don't know What is Bitcoin/Ethereum?! (Ok, I will tell you)
