@@ -218,6 +218,6 @@ Finally, pay the deposit amount to the Bitcoin or Ethereum address introduced by
 For more information on the Internet, search for "Bitcoin account creation tutorial"
 
 ________Good News_________
-BigThank's to martin.soro@yahoo.com that purchased & email us.
-Bigthank's to kaliboxteamchina@live.com that purchase & email us.
-Bigthank's to happyjoke_lib@z-lib.onion that purchase & email us.
+BigThank's to martin.soro@yahoo.com that purchased & email us. <br>
+Bigthank's to kaliboxteamchina@live.com that purchase & email us. <br>
+Bigthank's to happyjoke_lib@z-lib.onion that purchase & email us. <br>
