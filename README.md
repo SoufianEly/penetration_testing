@@ -8,11 +8,11 @@
 
 
 ### Our Books👌
-<img src="https://drive.google.com/uc?export=view&id=1kgfR7u01BItVMtqHDz3MW4J7DIj68HXw">
+<img src="https://splianel.sirv.com/cap1.JPG">
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1us_W3sBAPT_ODTTQOrYpSJQFlQMqyjNe">
+<img src="https://splianel.sirv.com/cap2.JPG">
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1ot-mDH74lXpAKglk1nrUy9XBAWPeopAp">
+<img src="https://splianel.sirv.com/cap3.JPG">
 
 #### Big thank's to My best Friend "Oysten" from Norway
 #### We do not violate copyright law, so publishers can contact us by email. The purpose of this work is to help researchers in the field of security and the growth of science and nothing else.
@@ -207,6 +207,17 @@
 > 💰💰 Donate $5 (USD) to get the password for all the books, take a photo of the payment page and email it (mrt.mycloud@gmail.com). Password will be sent in less than 24 hours. <br>
 <a href="https://vendor.cryptopayment.link/p/tSe0h0WX">
     <img src="https://www.galardi.ch/wp-content/uploads/2018/02/bitcoin-ethereum-accepted-here.png" width="300"> ... 
-    <img src="https://drive.google.com/uc?export=view&id=1YfvAccG669ryu7mgHr7kzUhPkj4Szdjo" width="100" hight="100">
+    <img src="https://splianel.sirv.com/download.png" width="100" hight="100">
 </a>
 
+### Don't know What is Bitcoin/Ethereum?! (Ok, I will tell you)
+If you are unfamiliar with the Bitcoin and Ethereum payment system, read the following:
+To create a Bitcoin and Ethereum account, you can go to http://blockchain.com and then create an account.<br>
+Then you can directly increase the credit of your wallet account <br> (if you are in a country like Iran that is under sanctions, you can increase your account through an exchange office or deposit directly to the payment address).<br>
+Finally, pay the deposit amount to the Bitcoin or Ethereum address introduced by us and send us email as we mentioned before.
+For more information on the Internet, search for "Bitcoin account creation tutorial"
+
+### 🎩Good News🎩<br>
+BigThank's to martin.soro@yahoo.com that purchased & email us. <br>
+Bigthank's to kaliboxteamchina@live.com that purchase & email us. <br>
+Bigthank's to happyjoke_lib@z-lib.onion that purchase & email us. <br>
