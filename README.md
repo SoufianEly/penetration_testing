@@ -216,3 +216,8 @@ To create a Bitcoin and Ethereum account, you can go to http://blockchain.com an
 Then you can directly increase the credit of your wallet account <br> (if you are in a country like Iran that is under sanctions, you can increase your account through an exchange office or deposit directly to the payment address).<br>
 Finally, pay the deposit amount to the Bitcoin or Ethereum address introduced by us and send us email as we mentioned before.
 For more information on the Internet, search for "Bitcoin account creation tutorial"
+
+________Good News_________
+BigThank's to martin.soro@yahoo.com that purchased & email us.
+Bigthank's to kaliboxteamchina@live.com that purchase & email us.
+Bigthank's to happyjoke_lib@z-lib.onion that purchase & email us.
